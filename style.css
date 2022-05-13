@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+
+#heading
+{
+    width: 100%;
+}
+
+#button_1
+{
+    float: right;
+    border: 2px solid white;
+}
+
+#heading_2
+{
+    float: left;
+}
+
+#canvas
+{
+    float: center;
+}
